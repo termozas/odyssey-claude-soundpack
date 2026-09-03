@@ -39,6 +39,4 @@ Tony Sheng, bundled under the MIT License (see `vendor/peon-ping/LICENSE`).
 
 ## Audio license
 
-The audio is from *The Odyssey* (2026), composed by Ludwig Göransson, and is
-**copyrighted**. This is a **private** repository for personal use only. The music
-is not licensed for redistribution — keep this repo private and do not share the audio.
+The audio is from *The Odyssey* (2026), composed by Ludwig Göransson
