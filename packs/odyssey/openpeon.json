@@ -1,0 +1,74 @@
+{
+  "cesp_version": "1.0",
+  "name": "odyssey",
+  "display_name": "The Odyssey (G\u00f6ransson)",
+  "version": "1.0.0",
+  "author": {
+    "name": "baller"
+  },
+  "license": "PERSONAL USE ONLY \u2014 copyrighted soundtrack, do not redistribute",
+  "language": "instrumental",
+  "categories": {
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/clip-15.m4a",
+          "label": "Underworld I (4.5s)",
+          "sha256": "245cd85f0c7ce830fefabcf36774407d80ed75628a9967fc056be092a8a3d9bd"
+        },
+        {
+          "file": "sounds/clip-4.m4a",
+          "label": "Underworld II (6s)",
+          "sha256": "b74df29f11aff2c59fc10097a6309f58bbfcb0eb7df9bd9036bd107f062b64c8"
+        },
+        {
+          "file": "sounds/clip-13.m4a",
+          "label": "Underworld III (8s)",
+          "sha256": "f0e51da569ebac8f367dd92628661f75e85e48d5a408a41daf6f3a63fb2fdf2f"
+        },
+        {
+          "file": "sounds/clip-2.m4a",
+          "label": "Echoes Prelude (12s)",
+          "sha256": "fc648037bdd12d8ee6b03f802d4ed2e0445700e9e8188fde72354c1e3771d838"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/clip-base.m4a",
+          "label": "Echoes Main (12s)",
+          "sha256": "44bc337b710f73eef01f85ddc0db95862d5d45b31c7f1d876012f47d64821906"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/clip-11.m4a",
+          "label": "Summons I (9s)",
+          "sha256": "3f8d5e583d9110dc9d13911303f9d9b50bbee8d958f5d7cf7709e8cef443ff73"
+        },
+        {
+          "file": "sounds/clip-17.m4a",
+          "label": "Summons II (9s)",
+          "sha256": "241fd89c3f47198f0ce57c94066cac170eb2644007244776f2ccdf4cf8707463"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/clip-8.m4a",
+          "label": "Furor I (9s)",
+          "sha256": "aec9a9af8a045a7020dec94928f9bc3301e49bea043c512c861eced79a8bcf4b"
+        },
+        {
+          "file": "sounds/clip-9.m4a",
+          "label": "Furor II (10s)",
+          "sha256": "8f6d49c559e0695499241a283589e6547489fe5d28b3b44a602398d952c2bd03"
+        }
+      ]
+    }
+  }
+}
