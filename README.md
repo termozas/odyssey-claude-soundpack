@@ -21,7 +21,7 @@ Requires [peon-ping](https://github.com/PeonPing/peon-ping) already installed.
 Clone this repo and run the installer:
 
 ```bash
-git clone https://github.com/termozas/odyssey-soundpack.git
+git clone https://github.com/termozas/odyssey-claude-soundpack.git
 cd odyssey-soundpack
 ./install.sh
 ```
